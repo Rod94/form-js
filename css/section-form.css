@@ -3,7 +3,7 @@
   vertical-align: middle;
   width: 900px;
 }
-span {
+.bold {
   font-weight: 600;
 }
 
@@ -29,4 +29,23 @@ span {
   height: 60px;
   width: 760px;
   margin-bottom: 8px;
+}
+
+.claim {
+  color: #fff;
+  background-color: #37CC8A;
+  border-radius: 15px;
+  width: 760px;
+  height: 60px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.some-text {
+  color: #B9B6D3;
+  text-align: center;
+}
+
+.terms {
+  color: #FF7978;
 }
