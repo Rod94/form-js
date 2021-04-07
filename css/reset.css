@@ -11,6 +11,9 @@ html, body {
 body {
   background: url(/images/bg-intro-desktop.png);
   background-color: #FF7978;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 * {
@@ -22,4 +25,8 @@ body {
   outline: none;
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
+}
+
+footer {
+  display: block;
 }

@@ -1,4 +1,13 @@
 .section-code {
   color: #fff;
-  width: 600px;
+  width: 500px;
+  display: inline-block;
+  vertical-align: middle;
 }
+
+.title-code {
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
