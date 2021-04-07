@@ -30,3 +30,7 @@ body {
 footer {
   display: block;
 }
+
+button {
+  cursor: pointer;
+}

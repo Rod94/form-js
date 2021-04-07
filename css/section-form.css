@@ -33,6 +33,11 @@
   text-indent: 8%;
 }
 
+input[name="name"],
+input[name="sname"] {
+  text-transform: capitalize;
+}
+
 .input-form::placeholder {
   font-weight: 700;
   text-indent: 8%;
